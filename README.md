@@ -1,123 +1,110 @@
-```console
-Last login: today
+<!-- ===================================================== -->
+<!--                    HERO BANNER                         -->
+<!--                 (placeholder for now)                 -->
+<!-- ===================================================== -->
 
-Connected to chitransh@github
-
-Type 'help' to begin.
-
-❯ help
-
-Available commands:
-
-whoami
-projects
-toolchain
-workspace
-contact
-logout
-```
+<!-- <p align="center">
+  <img src="assets/banner(1).jpeg" alt="banner" width="100%">
+</p> -->
 
 ---
 
-```console
-❯ whoami
-```
+## Overview
 
-```text
-Name        : Chitransh
-Role        : Computer Science Student
-Environment : Linux
-Language    : C++
-```
+Computer Science student building software with **C++** on **Linux**.
 
-I enjoy understanding software from the inside out.
-
-Most of my time is spent writing C++, using Linux, and building things from first principles. I prefer learning by implementing concepts myself instead of treating them as black boxes.
+I enjoy understanding software beneath the abstraction—whether that's implementing a data structure from scratch, debugging a stubborn bug at 2 AM, or figuring out *why* something works instead of simply making it work.
 
 ---
 
-```console
-❯ tree projects
-```
+## Featured
 
-```text
-projects
-├── cpp-learning
-│   ├── references
-│   ├── pointers
-│   ├── structs
-│   ├── classes
-│   ├── dynamic-array
-│   └── linked-list
-│
-├── BattleArena
-│   └── Turn-based battle game written in C++
-│
-└── ...
-```
+<table>
+<tr>
+
+<td width="50%">
 
 ### cpp-learning
 
-A repository documenting my journey of learning modern C++ through hands-on implementations and experiments.
+A collection of my C++ learning journey.
+
+Instead of rushing through tutorials, I implement concepts myself to understand how they work under the hood.
+
+</td>
+
+<td width="50%">
 
 ### BattleArena
 
-A terminal-based turn-based battle game built to practice object-oriented programming, project structure, and game logic.
+A terminal-based battle game built in modern C++.
+
+Started as an OOP exercise.
+Slowly turning into my playground for experimenting with game mechanics and clean architecture.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-```console
-❯ ls toolchain/
-```
+## Toolbox
 
 ```text
-cpp/
-linux/
-git/
-fish/
-kitty/
-vscode/
+Languages
+─────────
+C++
+
+Environment
+───────────
+Linux
+
+Tools
+─────
+Git
+VS Code
+Fish
+Kitty
+
+Current Interest
+────────────────
+Systems Programming
 ```
 
 ---
 
-```console
-❯ cat workspace
-```
+## Current Mission
 
 ```text
-Current Project
----------------
+Mission:
+Build software that teaches me something.
+
+Current Project:
 cpp-learning
-
-Current Focus
--------------
-• Modern C++
-• Building projects
-• Writing cleaner code
-• Understanding software fundamentals
 ```
 
 ---
 
-```console
-❯ contact
-```
+## Notes
 
-```text
-GitHub    : https://github.com/ChitranshAherwar
-LinkedIn  : <www.linkedin.com/in/chitransh-aherwar-0a97562b2>
-Email     : <chitranshaherwar@gmail.com>
-```
+> I don't like treating software as magic.
+
+I'd rather build something slowly and understand every moving part than finish it quickly without knowing why it works.
 
 ---
 
-```console
-❯ logout
-```
+## Elsewhere
+
+GitHub → github.com/ChitranshAherwar
+
+LinkedIn → ...
+
+Email → ...
+
+---
 
 ```text
-Saving session...
+Status
 
-Connection to chitransh@github closed.
+Still building.
 ```

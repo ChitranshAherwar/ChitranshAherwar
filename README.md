@@ -10,44 +10,40 @@ I like understanding how software works beneath the abstractions.
 
 ---
 
-## Toolbox
+##  Toolbox
 
-<table width="100%">
-<tr>
+<div align="center">
 
-<td width="33%" align="center">
+| **Languages** | **Systems** | **Tools** |
+|:---:|:---:|:---:|
+| C++ | Linux | CMake |
+| Bash | Git | Fish |
+| | | Kitty |
+| | | VS Code |
 
-<h3>Languages</h3>
-
-C++ · Bash
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>Systems</h3>
-
-Linux · Git
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>Tools</h3>
-
-CMake · Fish · Kitty · VS Code
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-## Projects
+##  Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+###  nsh
+
+A small Unix-like shell written in C++.
+
+Currently working on command parsing and process execution while learning more about Linux system programming.
+
+**Focus**
+
+`C++` `Linux` `Processes` `System Calls`
+
+→ [Repository](https://github.com/ChitranshAherwar/nsh)
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -55,34 +51,16 @@ CMake · Fish · Kitty · VS Code
 
 A collection of C++ concepts and data structures implemented while learning the language.
 
-**Covered so far**
+**Covered**
 
-- References
-- Pointers
-- Dynamic Arrays
-- Linked Lists
-- OOP
+`Pointers` `References` `Arrays` `Linked Lists` `OOP`
 
 → [Repository](https://github.com/ChitranshAherwar/Learning-Data-Structures)
 
 </td>
-
-<td width="50%" valign="top">
-
-###  nsh
-
-A small Unix-like shell written in C++.
-
-Currently working on parsing commands and process execution while learning more about Linux system programming.
-
-→ [Repository](https://github.com/ChitranshAherwar/nsh)
-
-</td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ###  BattleArena
@@ -91,52 +69,49 @@ A terminal-based battle game built in C++.
 
 Started as a way to practice OOP, program structure, and game logic.
 
+`C++` `OOP` `Game Logic`
+
 → [Repository](https://github.com/ChitranshAherwar/BattleArena)
 
 </td>
 
 <td width="50%" valign="top">
 
-### nyx-hyprland
+###  nyx-hyprland
 
 My personal Hyprland configuration for EndeavourOS.
 
-Built around a keyboard-driven workflow and a lot of experimenting with Linux.
+Built around a keyboard-driven workflow and experimenting with Linux.
+
+`Linux` `Hyprland` `Shell`
 
 → [Repository](https://github.com/ChitranshAherwar/nyx-hyprland)
 
 </td>
-
 </tr>
 </table>
 
 ---
 
+##  Currently
 
-## Currently
+**C++** · **Data Structures & Algorithms** · **Linux** · **Systems Programming**
 
-I'm focusing on:
-
-- Getting better at C++
-- Data structures and algorithms
-- Linux and systems programming
-- Building projects instead of just following tutorials
+Building projects instead of just following tutorials.
 
 ---
 
-## Connect
+##  Connect
 
-<p align="left">
+<p>
   <a href="https://github.com/ChitranshAherwar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub">
   </a>
-
   <a href="https://www.linkedin.com/in/chitransh-aherwar-0a97562b2">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn">
   </a>
-
   <a href="mailto:chitranshaherwar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email">
   </a>
 </p>
 

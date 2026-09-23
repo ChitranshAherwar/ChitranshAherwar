@@ -1,45 +1,38 @@
-<!-- ===================================================== -->
-<!--                    HERO BANNER                         -->
-<!--                 (placeholder for now)                 -->
-<!-- ===================================================== -->
+<div align="center">
 
-<!-- <p align="center">
-  <img src="assets/banner(1).jpeg" alt="banner" width="100%">
-</p> -->
+# Building software one project at a time.
 
----
+Computer Science student exploring **C++**, **Linux**, and **systems programming**.
 
-## Overview
+I like understanding how software works beneath the abstractions.
 
-Computer Science student building software with **C++** on **Linux**.
-
-I enjoy understanding software beneath the abstraction—whether that's implementing a data structure from scratch, debugging a stubborn bug at 2 AM, or figuring out *why* something works instead of simply making it work.
+</div>
 
 ---
 
-## Featured
+## Toolbox
 
 <table>
 <tr>
 
-<td width="50%">
+<td valign="top" width="50%">
 
-### cpp-learning
+### Languages
 
-A collection of my C++ learning journey.
-
-Instead of rushing through tutorials, I implement concepts myself to understand how they work under the hood.
+- C++
+- Bash
 
 </td>
 
-<td width="50%">
+<td valign="top" width="50%">
 
-### BattleArena
+### Environment
 
-A terminal-based battle game built in modern C++.
-
-Started as an OOP exercise.
-Slowly turning into my playground for experimenting with game mechanics and clean architecture.
+- Linux
+- Git
+- Fish
+- Kitty
+- VS Code
 
 </td>
 
@@ -48,63 +41,112 @@ Slowly turning into my playground for experimenting with game mechanics and clea
 
 ---
 
-## Toolbox
+## Projects
 
-```text
-Languages
-─────────
-C++
+<table>
+<tr>
 
-Environment
-───────────
-Linux
+<td width="50%" valign="top">
 
-Tools
-─────
-Git
-VS Code
-Fish
-Kitty
+###  C++ Learning
 
-Current Interest
-────────────────
-Systems Programming
-```
+A collection of C++ concepts and data structures implemented while learning the language.
+
+**Covered so far**
+
+- References
+- Pointers
+- Dynamic Arrays
+- Linked Lists
+- OOP
+
+→ [Repository](https://github.com/ChitranshAherwar/Learning-Data-Structures)
+
+</td>
+
+<td width="50%" valign="top">
+
+###  nsh
+
+A small Unix-like shell written in C++.
+
+Currently working on parsing commands and process execution while learning more about Linux system programming.
+
+→ [Repository](https://github.com/ChitranshAherwar/nsh)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+###  BattleArena
+
+A terminal-based battle game built in C++.
+
+Started as a way to practice OOP, program structure, and game logic.
+
+→ [Repository](https://github.com/ChitranshAherwar/BattleArena)
+
+</td>
+
+<td width="50%" valign="top">
+
+### nyx-hyprland
+
+My personal Hyprland configuration for EndeavourOS.
+
+Built around a keyboard-driven workflow and a lot of experimenting with Linux.
+
+→ [Repository](https://github.com/ChitranshAherwar/nyx-hyprland)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Current Mission
+## Currently
 
-```text
-Mission:
-Build software that teaches me something.
+I'm focusing on:
 
-Current Project:
-cpp-learning
-```
-
----
-
-## Notes
-
-> I don't like treating software as magic.
-
-I'd rather build something slowly and understand every moving part than finish it quickly without knowing why it works.
+- Getting better at C++
+- Data structures and algorithms
+- Linux and systems programming
+- Building projects instead of just following tutorials
 
 ---
 
-## Elsewhere
 
-GitHub → github.com/ChitranshAherwar
+## Connect
 
-LinkedIn → ...
-
-Email → ...
+<p align="left">
+  <a href="https://github.com/ChitranshAherwar">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg"
+         width="30"
+         alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/chitransh-aherwar-0a97562b2">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"
+         width="30"
+         alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:chitranshaherwar@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gmail.svg"
+         width="30"
+         alt="Email">
+  </a>
+</p>
 
 ---
 
-```text
-Status
+<div align="center">
 
-Still building.
-```
+*Still building.*
+
+</div>

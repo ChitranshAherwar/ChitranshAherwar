@@ -12,16 +12,40 @@ I like understanding how software works beneath the abstractions.
 
 ##  Toolbox
 
-<div align="center">
+<table width="100%">
+<tr>
 
-| **Languages** | **Systems** | **Tools** |
-|:---:|:---:|:---:|
-| C++ | Linux | CMake |
-| Bash | Git | Fish |
-| | | Kitty |
-| | | VS Code |
+<td width="33%" align="center">
 
-</div>
+<h3>Languages</h3>
+
+C++<br>
+Bash
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>Systems</h3>
+
+Linux<br>
+Git
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>Tools</h3>
+
+CMake<br>
+Fish<br>
+Kitty<br>
+VS Code
+
+</td>
+
+</tr>
+</table>
 
 ---
 

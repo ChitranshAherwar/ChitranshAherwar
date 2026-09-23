@@ -12,21 +12,44 @@ I like understanding how software works beneath the abstractions.
 
 ## Toolbox
 
-<div align="center">
+<table width="100%">
+<tr>
 
-**Languages**
+<td width="33%" align="center">
+
+<h3>Languages</h3>
 
 C++ · Bash
 
-**Environment**
+</td>
 
-Linux · Git · Fish · Kitty · VS Code
+<td width="33%" align="center">
 
-</div>
+<h3>Systems</h3>
+
+Linux · Git
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>Tools</h3>
+
+CMake · Fish · Kitty · VS Code
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ###  C++ Learning
 
@@ -88,6 +111,7 @@ Built around a keyboard-driven workflow and a lot of experimenting with Linux.
 </table>
 
 ---
+
 
 ## Currently
 

@@ -10,42 +10,11 @@ I like understanding how software works beneath the abstractions.
 
 ---
 
-##  Toolbox
+## Toolbox
 
-<table width="100%">
-<tr>
-
-<td width="33%" align="center">
-
-<h3>Languages</h3>
-
-C++<br>
-Bash
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>Systems</h3>
-
-Linux<br>
-Git
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>Tools</h3>
-
-CMake<br>
-Fish<br>
-Kitty<br>
-VS Code
-
-</td>
-
-</tr>
-</table>
+> **Languages** — `C++` · `Bash`  
+> **Systems** — `Linux` · `Git`  
+> **Tools** — `CMake` · `Fish` · `Kitty` · `VS Code`
 
 ---
 

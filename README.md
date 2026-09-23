@@ -125,21 +125,15 @@ I'm focusing on:
 
 <p align="left">
   <a href="https://github.com/ChitranshAherwar">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg"
-         width="30"
-         alt="GitHub">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="28" alt="GitHub">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/chitransh-aherwar-0a97562b2">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"
-         width="30"
-         alt="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="28" alt="LinkedIn">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:chitranshaherwar@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gmail.svg"
-         width="30"
-         alt="Email">
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="28" alt="Email">
   </a>
 </p>
 
